@@ -19,11 +19,12 @@ load ../AFdata/season2/ablcrkwt5ranks/ablcrkwt5ranks_34605_unrelaxed_rank_003_al
 load ../AFdata/season2/ablcrkwt5ranks/ablcrkwt5ranks_34605_unrelaxed_rank_004_alphafold2_multimer_v3_model_4_seed_000.pdb, CrAbRk4
 load ../AFdata/season2/ablcrkwt5ranks/ablcrkwt5ranks_34605_unrelaxed_rank_005_alphafold2_multimer_v3_model_1_seed_000.pdb, CrAbRk5
 
-load ../AFdata/season2/ablSH3W110Kcrkwt/ablsh3w110kcrkwt_e8805_unrelaxed_rank_001_alphafold2_multimer_v3_model_1_seed_000.pdb, CrAbSH3MRk1
-load ../AFdata/season2/ablSH3W110Kcrkwt/ablsh3w110kcrkwt_e8805_unrelaxed_rank_002_alphafold2_multimer_v3_model_2_seed_000.pdb, CrAbSH3MRk2
-load ../AFdata/season2/ablSH3W110Kcrkwt/ablsh3w110kcrkwt_e8805_unrelaxed_rank_003_alphafold2_multimer_v3_model_4_seed_000.pdb, CrAbSH3MRk3
-load ../AFdata/season2/ablSH3W110Kcrkwt/ablsh3w110kcrkwt_e8805_unrelaxed_rank_004_alphafold2_multimer_v3_model_3_seed_000.pdb, CrAbSH3MRk4
-load ../AFdata/season2/ablSH3W110Kcrkwt/ablsh3w110kcrkwt_e8805_unrelaxed_rank_005_alphafold2_multimer_v3_model_5_seed_000.pdb, CrAbSH3MRk5
+load ../AFdata/season2/ablSH3W110Kcrkwt/ablsh3w110kcrkwtretry_6a3e3_unrelaxed_rank_001_alphafold2_multimer_v3_model_2_seed_000.pdb, CrAbSH3MRk1
+load ../AFdata/season2/ablSH3W110Kcrkwt/ablsh3w110kcrkwtretry_6a3e3_unrelaxed_rank_002_alphafold2_multimer_v3_model_1_seed_000.pdb, CrAbSH3MRk2
+load ../AFdata/season2/ablSH3W110Kcrkwt/ablsh3w110kcrkwtretry_6a3e3_unrelaxed_rank_003_alphafold2_multimer_v3_model_4_seed_000.pdb, CrAbSH3MRk3
+load ../AFdata/season2/ablSH3W110Kcrkwt/ablsh3w110kcrkwtretry_6a3e3_unrelaxed_rank_004_alphafold2_multimer_v3_model_5_seed_000.pdb, CrAbSH3MRk4
+load ../AFdata/season2/ablSH3W110Kcrkwt/ablsh3w110kcrkwtretry_6a3e3_unrelaxed_rank_005_alphafold2_multimer_v3_model_3_seed_000.pdb, CrAbSH3MRk5
+
 
 select Ab_abSH2,  Ab & chain A & resi 127-217 
 select Ab_abSH3,  Ab & chain A & resi 61-121 
