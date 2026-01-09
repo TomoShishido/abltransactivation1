@@ -12,7 +12,7 @@ Files
 --PAEAblForm0_templatepdb100Abl_51aef_scores_rank_003_alphafold2_ptm_model_3_seed_000.xlsx: PAE Exel file (c-Abl Form 0)
 --PAEAblForm0_templatepdb100Abl_51aef_unrelaxed_rank_003_alphafold2_ptm_model_3_seed_000_pae.png: PAE PDF file (c-Abl Form 0)
 --PAEAblForm1_templatepdb100Abl_51aef_scores_rank_001_alphafold2_ptm_model_1_seed_000.xlsx: PAE Exel file (c-Abl Form 1)
---PAEAblForm1_templatepdb100Abl_51aef_unrelaxed_rank_001_alphafold2_ptm_model_1_seed_000_pae.png: PAE PDF file (c-Abl Form 0)
+--PAEAblForm1_templatepdb100Abl_51aef_unrelaxed_rank_001_alphafold2_ptm_model_1_seed_000_pae.png: PAE PDF file (c-Abl Form 1)
 
 Colab_AlphaFold1-2_PAE_json2excel.ipynb : Jupyter Notebook
 
